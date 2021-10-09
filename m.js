@@ -230,10 +230,10 @@ case "footer":
     ;
     an.hi();
     var X = [];
-    X[0] = [10, 'https://www.xxmh686.com/tg.html?id=692'];
-    X[1] = [10, 'https://www.xxmh687.com/tg.html?id=692'];
-    X[2] = [10, 'https://www.xxmh688.com/tg.html?id=839'];
-    X[3] = [10, 'https://www.xxmh689.com/tg.html?id=839'];
+    X[0] = [10, 'https://www.xxmh706.com/tg.html?id=692'];
+    X[1] = [10, 'https://www.xxmh707.com/tg.html?id=692'];
+    X[2] = [10, 'https://www.xxmh708.com/tg.html?id=839'];
+    X[3] = [10, 'https://www.xxmh709.com/tg.html?id=839'];
 
     var q = ac.config.height;
     var al = ac.config.height;
